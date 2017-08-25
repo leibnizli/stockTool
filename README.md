@@ -3,6 +3,6 @@ stockTool
 
 基于React Native的app实践 
 
-<p><img src="https://raw.githubusercontent.com/stormtea123/stockTool/master/img/demo1.jpg" alt="demo" width="487" height="801"></p>
+![demo1](https://user-images.githubusercontent.com/1193966/29701843-d80492dc-89a0-11e7-8d5a-76a76606c863.jpg)
 
-<p><img src="https://raw.githubusercontent.com/stormtea123/stockTool/master/img/demo2.jpg" alt="demo" width="487" height="801"></p>
+![demo2](https://user-images.githubusercontent.com/1193966/29701844-d8402a40-89a0-11e7-8d97-4721d0011a82.jpg)
